@@ -47,7 +47,7 @@ class Employee {
 //Now how to create a object of this class . here we are not written any hardcoded value in this class like name is nitin , age is 38 like this .
 //Object of the class using new keyword
 //whenever we create the object constructor will be called
-//so here whenever creating the constructor please give me nam, age ,salary, isPerm
+//so here whenever creating the constructor please give me name, age ,salary, isPerm
 
 let e1 = new Employee('Tom', 30, 12.33, true);
 
